@@ -1,8 +1,15 @@
 # makefun-git-forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/sahrudinn04-dotcom/makefun-git-forge/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/sahrudinn04-dotcom/makefun-git-forge/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A GitHub-compatible git forge in one Node 22 process, standard library only —
 no git binary, no package manager, no outside service. Built for the make.fun
-bounty "Build a GitHub-compatible git forge" (github-core-clone-01).
+bounty "Build a GitHub-compatible git forge" (github-core-clone-01):
+https://make.fun/bounty/github-core-clone-01
+
+Try make.fun with my referral: https://make.fun/r/2c51b8pr
 
 ## Run
 
